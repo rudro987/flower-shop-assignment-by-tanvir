@@ -23,7 +23,9 @@ h1,h2{
     font-size: 40px;
     font-weight: 800;
 }
-
+span{
+    color: #E55473;
+}
 
 /* Header styles */
 header{
@@ -201,6 +203,15 @@ footer{
     padding: 6%;
 }
 #footer-heading{
-    
+    font-size: 48px;
+    font-weight: 800;
+    color:#FFF;
+}
+#footer-paragraph{
+    color: rgba(255, 255, 255, 0.90);
+}
+#copyright{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
 }
 
