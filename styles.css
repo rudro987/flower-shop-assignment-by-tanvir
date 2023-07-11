@@ -140,5 +140,67 @@ header{
 }
 
 /* Hot Deals styles */
+#hot-deal{
+    background: rgba(229, 84, 115, 0.05);
+    padding:6% 0;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+#hot-deal-heading{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+#hot-deal img{
+margin-left:10%;
+margin-top: -30px;
+}
 
+#signup-btn{
+    display:block;
+    margin:auto;
+}
+.section-paragraph{
+    margin-bottom:30px;
+}
+
+/* Instagram section styles */
+.instagram-images{
+    display:flex;
+    justify-content: center;
+    gap:30px;
+    margin-top: 50px;
+}
+
+/* Latest deals section */
+.latest-deals {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+#latest-deal-contents{
+    width: 1450px;
+    height: 450px;
+    background-image: url('./Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+}
+input#email {
+    width: 700px;
+    border-radius: 8px;
+    background: #FFF;
+    border: none;
+    padding: 24px;
+    margin-right: 15px;
+}
+
+/* footer styles */
+footer{
+    background: #111010;
+    padding: 6%;
+}
+#footer-heading{
+    
+}
 
