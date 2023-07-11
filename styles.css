@@ -172,7 +172,18 @@ margin-top: -30px;
 .instagram-images{
     display:flex;
     justify-content: center;
-    gap:30px;
+    gap:20px;
+    margin-top: 50px;
+}
+
+/* shop section styles */
+.shop-section{
+    background: rgba(229, 84, 115, 0.10);
+    padding-top:4%;
+}
+.shop-section-images{
+    display:flex;
+    justify-content: space-evenly;
     margin-top: 50px;
 }
 
