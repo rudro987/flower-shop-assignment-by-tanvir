@@ -212,6 +212,13 @@ input#email {
 /* Testimonials section */
 .testimonials-section{
     background:rgba(39, 39, 39, 0.05);
+    padding: 4%;
+}
+.testimonails{
+    font-style:italic;
+}
+#testimonials-name{
+    font-weight: 800;
 }
 
 /* footer styles */
