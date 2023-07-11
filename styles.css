@@ -209,6 +209,11 @@ input#email {
     margin-right: 15px;
 }
 
+/* Testimonials section */
+.testimonials-section{
+    background:rgba(39, 39, 39, 0.05);
+}
+
 /* footer styles */
 footer{
     background: #111010;
